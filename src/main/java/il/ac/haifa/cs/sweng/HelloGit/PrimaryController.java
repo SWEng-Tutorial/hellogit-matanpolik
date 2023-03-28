@@ -23,6 +23,8 @@ public class PrimaryController {
     	Scene scene = new Scene(parent);
     	dialogStage.setScene(scene);
     	dialogStage.show();
+		oren;
+
     }
     
     // Pay attention to this example - You don't have to specify parameters on event handlers.
