@@ -23,7 +23,7 @@ public class PrimaryController {
     	Scene scene = new Scene(parent);
     	dialogStage.setScene(scene);
     	dialogStage.show();
-		oren;
+
 
     }
     
